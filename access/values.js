@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "18.09.2002"; // Дата рождения
+var birthdate = "18.09.2004"; // Дата рождения
 var fullname = "Прищепа Олександр Олексійович" // ФИО
 var name = "Олександр" // Имя
 
